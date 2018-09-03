@@ -5,4 +5,4 @@ you should said no.
 成都, 带不走的只有你.
 Hidding from rain and snow.
 千夜
-Git tracks changes.
+Git tracks changes of file.
